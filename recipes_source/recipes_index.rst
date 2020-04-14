@@ -140,7 +140,7 @@ Recipes are bite-sized bite-sized, actionable examples of how to use specific Py
    :card_description:  Apply dynamic quantization to a simple LSTM model.
    :image: _static/img/thumbnails/pytorch-logo-flat.png
    :link: ../recipes/recipes/dynamic_quantization.html
-   :tags: Quantization, LSTM
+   :tags: Quantization, Text, Model-Optimization
 
 
 .. End of recipe card section

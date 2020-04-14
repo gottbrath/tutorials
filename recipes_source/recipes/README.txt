@@ -64,7 +64,9 @@ PyTorch Recipes
 	 Extending TorchScript with Custom C++ Operators
          https://pytorch.org/tutorials/recipes/recipes/torsh_script_custom_ops.html
 
-
+17. dynamic_quantization.py
+         Applying Dynamic Quantization to a simple LSTM network
+         https://pytorch.org/tutorials/recipes/recipes/dynamic_quantization.html
 
 
 
